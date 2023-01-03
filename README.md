@@ -1,6 +1,6 @@
 👋 Hi, I’m Hassan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning backend 
+- 🌱 I’m currently learning new skills
 - 📫 Shoot me email on hassansuhail760@gmail.com
 
 ## 🌐 connect with me on :
