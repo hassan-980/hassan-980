@@ -18,6 +18,9 @@
   <a href="https://leetcode.com/u/hassan980/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100">
   </a>
+  <a href="https://leetcode.com/u/hassan980/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="100">
+  </a>
 
 </p>
 
